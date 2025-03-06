@@ -302,13 +302,19 @@ nav {
   }
   .sees {
     display: block;
+    background-color: white;
+    width: 200px;
+    padding: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    margin: 20px auto;
   }
   .black {
     display: flex;
     flex-direction: column;
     /* position: absolute; */
     /* bottom: 0px; */
-    margin-top: 1200px;
+    margin-top: 1050px;
     width: 100%;
     padding: 0px;
   }
