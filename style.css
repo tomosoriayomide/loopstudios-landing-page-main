@@ -187,7 +187,7 @@ nav {
 .phone {
   display: none;
 }
-@media screen and (min-width: 300px) and (max-width: 750px) {
+@media screen and (min-width: 300px) and (max-width: 50px) {
   body {
     width: 100%;
   }
